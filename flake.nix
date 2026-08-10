@@ -7,6 +7,10 @@
                 path = ./devshell;
                 description = "Default devshell template";
             };
+            rust = {
+                path = ./rust;
+                description = "Rust devshell";
+            };
         };
     };
 }
