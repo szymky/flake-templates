@@ -1,5 +1,5 @@
 {
-  description = "Generic dev shell";
+  description = "default rust dev shell";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
